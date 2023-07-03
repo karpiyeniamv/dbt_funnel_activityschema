@@ -1,0 +1,31 @@
+activity_id,ts,customer,activity,employee,contact_duration,status
+1,2023-07-01 09:25:12,ABC123,consultation,E001,15,success
+2,2023-07-01 10:40:30,DEF456,consultation,E002,25,fail
+3,2023-07-01 11:55:45,GHI789,consultation,E003,20,success
+4,2023-07-01 13:11:02,JKL012,consultation,E004,10,fail
+5,2023-07-01 14:26:20,MNO345,consultation,E005,30,call back
+6,2023-07-01 15:41:35,PQR678,consultation,E006,15,success
+7,2023-07-01 16:56:50,STU901,consultation,E001,10,call back
+8,2023-07-01 18:12:08,VWX234,consultation,E002,25,success
+9,2023-07-01 19:27:25,YZA567,consultation,E003,20,success
+10,2023-07-01 20:42:40,BCD890,consultation,E004,15,call back
+11,2023-07-01 21:57:55,EFG123,consultation,E005,30,success
+12,2023-07-02 00:13:12,HIJ456,consultation,E006,10,fail
+13,2023-07-02 01:28:30,KLM789,consultation,E001,20,call back
+14,2023-07-02 02:43:45,NOP012,consultation,E002,15,success
+15,2023-07-02 03:59:02,QRS345,consultation,E003,10,fail
+16,2023-07-02 05:14:20,TUV678,consultation,E004,30,success
+17,2023-07-02 06:29:35,WXY901,consultation,E005,20,success
+18,2023-07-02 07:44:50,ZAB234,consultation,E006,15,call back
+19,2023-07-02 09:00:08,CDE567,consultation,E001,25,success
+20,2023-07-02 10:15:25,FGH890,consultation,E002,20,call back
+21,2023-07-02 11:30:40,IJK123,consultation,E003,15,fail
+22,2023-07-02 12:45:55,LMN456,consultation,E004,30,success
+23,2023-07-02 14:01:12,OPQ789,consultation,E005,10,success
+24,2023-07-02 15:16:30,RST012,consultation,E006,20,call back
+25,2023-07-02 16:31:45,UVW345,consultation,E001,15,success
+26,2023-07-02 17:47:02,XYZ678,consultation,E002,25,success
+27,2023-07-02 19:02:20,123901,consultation,E003,10,call back
+28,2023-07-02 20:17:35,456234,consultation,E004,30,success
+29,2023-07-02 21:32:50,789567,consultation,E005,20,success
+30,2023-07-02 22:48:08,012890,consultation,E006,15,fail
